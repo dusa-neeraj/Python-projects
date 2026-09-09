@@ -1,0 +1,11 @@
+name,age,score,city
+Alice,25,88.5,Hyderabad
+Bob,30,76.0,Chennai
+Charlie,,92.3,
+David,22,41.0,Mumbai
+Eve,38,95.5,Delhi
+Frank,19,55.0,Pune
+Grace,29,,Bangalore
+Heidi,27,60.0,Hyderabad
+Ivan,33,98.0,Chennai
+Judy,,88.0,Mumbai
